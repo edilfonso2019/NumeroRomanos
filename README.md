@@ -5,3 +5,6 @@ Integ:
 Edilfonso Crisostomo Benjamin
 
 Saldaña Espiritu Dana
+
+
+PASOS: Inicializar en el archivo index.htmnl
