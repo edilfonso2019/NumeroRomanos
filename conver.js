@@ -1,5 +1,3 @@
-var x;
-x = prompt("Ingrese numero uno: ");
 
 function convertirEnteroARomano(numero) {
     if (typeof numero != 'number' || !Number.isInteger(numero)) {
