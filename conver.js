@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 98f6dc2dd7ddbddab1a34d152055be1d872920e3
 
 function convertirEnteroARomano(numero) {
     if (typeof numero != 'number' || !Number.isInteger(numero)) {
