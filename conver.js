@@ -1,5 +1,4 @@
-var x;
-x = prompt("Ingrese numero uno: ");
+
 
 function convertirEnteroARomano(numero) {
     if (typeof numero != 'number' || !Number.isInteger(numero)) {
@@ -23,5 +22,8 @@ function convertirEnteroARomano(numero) {
 
 
 console.log(convertirEnteroARomano(1));  // XI
+console.log(convertirEnteroARomano(8));  // XI
 console.log(convertirEnteroARomano(23));  // XXIII
 console.log(convertirEnteroARomano(8));  // VIII
+console.log(convertirEnteroARomano(8));  // VIII
+
